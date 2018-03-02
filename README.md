@@ -7,7 +7,7 @@ http://dhumthatha.blogspot.in/2018/02/break-dependency-in-c-unit-testing.html
 
 Quick steps to run this project:
 
-1.Open set_env.sh and set the root location of cxxtest framework in CXXTEST variable
-2.     . set_env.sh
-3.     . run.sh
+1.Open set_env.sh and set the root location of cxxtest framework in CXXTEST variable  
+2.     . set_env.sh  
+3.     . run.sh  
 
