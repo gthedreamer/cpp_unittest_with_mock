@@ -16,3 +16,9 @@ int Calculator :: sub(int a, int b)
    m_history->updateOperation("sub",a,b);
    return (a-b);
 }
+
+int Calculator :: test()
+{
+   // TODO
+}
+
